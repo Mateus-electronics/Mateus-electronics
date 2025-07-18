@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mateus-electronics/Mateus-electronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, o meu nome é Mateus! 👋
 
-Here are some ideas to get you started:
+### Apenas um aspirante a Engenheiro Eletricista/Eletrônico que gosta de Tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+_"Bem-aventurados os pacificadores, porque eles serão chamados Filhos de Deus."_
+_Mateus 5:9_
+
+*#Um pouco sobre mim*
+Eu tenho 19 anos, sou universitário de engenharia elétrica e tenho grande interesse em lógica digital e robótica.
+Alguns interesses e conhecimentos que venho juntando podem ser dito em design de circuitos digitais, VHDL, algum conhecimento de circuitos elétrico e eletromagnéticos, proficiência em matemática, inglês, AutoCAD e Office.
+
